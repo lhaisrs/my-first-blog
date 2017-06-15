@@ -25,7 +25,7 @@ SECRET_KEY = 'kp$lsrd-&5t44gs(t#6ca$h@%%%-!)b(#%#xun6teofcc(z%es'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lhaisrs.pythonanywhere.com']
 
 
 # Application definition
